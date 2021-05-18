@@ -1,4 +1,4 @@
-# Touch Ref Watch - Privacy Policy
+# Touch Referee Watch - Privacy Policy
 
 **Touch Ref Watch Overview:**  
 Touch Ref Watch is a standalone WatchOS Application.  It does not have or require an iOS companion app, it does not have a web portal, it does not have any kind of web back end.  The entire functionality of the app is self contained on your watch.   

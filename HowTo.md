@@ -1,4 +1,4 @@
-# Touch Ref Watch - How To
+# Touch Referee Watch - How To
 
 **Modes - Competitive vs Casual**  
 Touch Ref Watch has 2 main modes, competitive and casual.  
