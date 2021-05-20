@@ -41,7 +41,5 @@ You will receive the following haptic feedbacks from the watch.
   
 3 buzzes - Played at the end of the first half, and end of the match only.  
   
-**Workouts**  
-Each game records your activity and stores this as a workout in your Fitness app.  This can easily be deleted via the Fitness app like any other workout.  
-  
+**Background Running**  
 As this application continues to run in the background should you return to the setting screen without ending the game you will be prompted to end it at the menu so as to not waste battery life.
