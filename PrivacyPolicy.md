@@ -14,7 +14,7 @@ To access Beta versions of Touch Referee Watch you must first download TestFligh
 For this App, Beta invites are by public link only and thus your name and email address is not shared with me (appearing as annonymous).  
   
 **Sending feedback via TestFlight**  
-Should you choose to send feedback via the TestFlight app, I will receive your email address along with your feedback and device information such as; Device, iOS version, Language, Carrier, Timezone, Architecture, Connection status, Paired Apple Watch Device, and paid Appl Watch OS.  
+Should you choose to send feedback via the TestFlight app, I will receive your email address along with your feedback and device information such as; Device, iOS version, Language, Carrier, Timezone, Architecture, Connection status, Paired Apple Watch Device, and paired Apple Watch OS.  
   
 This information is emailed to a gmail account setup specifically for this app which can be seen on selecting "Send Beta Feedback".  
   
