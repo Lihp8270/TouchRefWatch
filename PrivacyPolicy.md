@@ -21,4 +21,6 @@ This information is emailed to a gmail account setup specifically for this app w
 **How will feedback emails be handled?**  
 Emails sent containing feedback will be held only for as long as required.  If the feedback contains bug/error reports the email will be kept until the issue is resolved or until the Beta build expires (19/08/2021) whichever is soonest, at which time the email will be deleted from the GMail account.  
   
-If the feedback contains a feature request it will be kept until the feature is added or until the Beta test expires (19/08/2021).  Should the beta expire prior to addressing the feature request, the information relating to the request/suggestion will be kept without any personal data and the feedback email will be deleted. 
+If the feedback contains a feature request it will be kept until the feature is added or until the Beta test expires (19/08/2021).  Should the beta expire prior to addressing the feature request, the information relating to the request/suggestion will be kept without any personal data and the feedback email will be deleted.  
+  
+Email addresses and names will not be shared with any third parties  
