@@ -22,18 +22,11 @@ There is a toggle for FIT 5 drop off, with the default (off position) being FIT 
   
 Drop off is presented as an option at the end of the game.  
   
-**Score keeping**  
-Useful for local tournaments or games such as in training sessions where there is no other score keeping method.  Select the teams by their dominant kit colour.  The current score will be displayed on the screen.  
-  
-To increase the score long press (for a duration of greater than 1 second) the team you wish to add a score for.  To decrement the score, double tap the team you wish to decrement.  
-  
-Note: Disabling score keeping allows for a larger text size of the timer.  
-  
 **Haptic Feedback**  
 Haptic feedback is the primary method of communicating to you the status of the game.  
   
 You will receive the following haptic feedbacks from the watch.  
-1 buzz for a 1 minute warning.  You will get this 1 minute away from half time, until start of the next half, and until the end of the game.  
+1 buzz for a 30 second warning.  You will get this 30 seconds away from half time, until start of the next half, and until the end of the game.  
   
 (Half Time only) - 1 buzz at 15seconds.  You will receive an additional warning buzz 15 seconds before the second half is due to start.  
   
